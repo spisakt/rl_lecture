@@ -8,7 +8,7 @@ A short computational neuroscience lecture on:
 
 ```
 git clone https://github.com/spisakt/rl_lecture.git
-cd rl_lectures
+cd rl_lecture
 pip install -r requirements.txt
 jupyter notebook
 ```
