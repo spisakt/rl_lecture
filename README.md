@@ -1,4 +1,4 @@
-Short lecture on
+A short computational neuroscience lecture on:
 
 # Reinforcement Learning: model-free vs. model-based approaches
 
