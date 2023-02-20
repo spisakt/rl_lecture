@@ -5,3 +5,5 @@ matplotlib>=3.7.0
 plotly>=5.13.0
 seaborn>=0.11.2
 tqdm>=4.62.1
+jupyter>=1.0.0
+RISE>=5.7.1
