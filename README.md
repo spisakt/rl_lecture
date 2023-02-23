@@ -8,7 +8,8 @@ slides.pdf
 
 ### Lunch it in the cloud:
 1. Click here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spisakt/rl_lecture/HEAD?labpath=RL_lecture.ipynb)
-2. 
+2. Enable Extension: `jupyterlab_rise` 
+3. Start the presentation.
 
 
 ### Lunch it locally
