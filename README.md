@@ -8,21 +8,17 @@ slides.pdf
 
 ### Lunch it in the cloud:
 1. Click here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spisakt/rl_lecture/HEAD?labpath=RL_lecture.ipynb)
-2. Enable Extension: `jupyterlab_rise` 
-3. Start the presentation.
-
+2. Wait a minute while you python environment gets set up.
+3. Click on "Render" ![image](https://user-images.githubusercontent.com/21124251/220990329-3fb6a07a-b829-4edd-9821-d59f823d0700.png)
+ (or hit Ctr+R) to start the interactive presentation.
 
 ### Lunch it locally
-1. Install repo:
-
+1. Set up a python interpreter (e.g. Miniconda)
+2. Install repo:
 ```
 git clone https://github.com/spisakt/rl_lecture.git
 cd rl_lecture
 pip3 install -r requirements.txt
 jupyter notebook
 ```
-
-
-2. Run the whole notebook
-
 3. Present with [RISE](https://rise.readthedocs.io/en/stable/index.html).
