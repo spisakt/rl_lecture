@@ -13,6 +13,8 @@ slides.pdf
  (or hit Alt+R) to start the interactive presentation.
 4. optional: open the slideshow in full screen: ![image](https://user-images.githubusercontent.com/21124251/220992618-d661b273-bb52-4849-a6b8-c505ce4b0cdd.png)
 
+**Hint:** *If equations do not render properly, activate extensions (`jupyterlab_latex`) and re-run the notebook.*
+
 
 ### Lunch it locally
 1. Set up a python interpreter (e.g. Miniconda)
