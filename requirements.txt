@@ -8,3 +8,4 @@ seaborn
 tqdm
 jupyter
 RISE
+jupyterlab_rise
