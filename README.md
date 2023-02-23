@@ -6,13 +6,13 @@ A short computational neuroscience lecture on:
 
 
 ## View the static presentation
-1. Click on this button: [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/spisakt/rl_lecture/blob/main/RL_lecture.ipynb){:target="_blank"}
+1. Click on this button: [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/spisakt/rl_lecture/blob/main/RL_lecture.ipynb)
 2. Click ![image](https://user-images.githubusercontent.com/21124251/221004883-bfa82156-18db-438a-859d-f7aac3f1d61d.png) to start the presentation
 
 ## Lunch it interactively
 
 ### A) In the cloud:
-1. Click here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spisakt/rl_lecture/HEAD?labpath=RL_lecture.ipynb){:target="_blank"}
+1. Click here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spisakt/rl_lecture/HEAD?labpath=RL_lecture.ipynb)
 2. Be patient while you python environment is being set up.
 3. Click on "Render" ![image](https://user-images.githubusercontent.com/21124251/220990329-3fb6a07a-b829-4edd-9821-d59f823d0700.png)
  (or hit Alt+R) to start the interactive presentation.
