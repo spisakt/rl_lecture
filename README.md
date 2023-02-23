@@ -2,9 +2,7 @@ A short computational neuroscience lecture on:
 
 # Reinforcement Learning: model-free vs. model-based approaches
 
-### Just look at the static pdf slides
-
-slides.pdf
+<center> <img src="fig/simbad.png"  width="200" height="200" center></center>
 
 ### Lunch it in the cloud:
 1. Click here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spisakt/rl_lecture/HEAD?labpath=RL_lecture.ipynb)
@@ -26,3 +24,6 @@ pip3 install -r requirements.txt
 jupyter notebook
 ```
 3. Present with [RISE](https://rise.readthedocs.io/en/stable/index.html).
+
+### Download the pdf for a static view
+RL_lecture.pdf (todo)
