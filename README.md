@@ -4,7 +4,14 @@ A short computational neuroscience lecture on:
 
 <center> <img src="fig/simbad.png"  width="200" height="200" center></center>
 
-### Lunch it in the cloud:
+
+## View the static presentation
+1. Click on this button: [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/spisakt/rl_lecture/blob/main/RL_lecture.ipynb)
+2. Click ![image](https://user-images.githubusercontent.com/21124251/221004883-bfa82156-18db-438a-859d-f7aac3f1d61d.png) to start the presentation.
+
+## Lunch it interactively
+
+### A) In the cloud:
 1. Click here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spisakt/rl_lecture/HEAD?labpath=RL_lecture.ipynb)
 2. Be patient while you python environment is being set up.
 3. Click on "Render" ![image](https://user-images.githubusercontent.com/21124251/220990329-3fb6a07a-b829-4edd-9821-d59f823d0700.png)
@@ -14,7 +21,7 @@ A short computational neuroscience lecture on:
 **Hint:** *If equations do not render properly, activate extensions (`jupyterlab_latex`) and re-run the notebook.*
 
 
-### Lunch it locally
+### B) Locally
 1. Set up a python interpreter (e.g. Miniconda)
 2. Install repo:
 ```
@@ -24,6 +31,3 @@ pip3 install -r requirements.txt
 jupyter notebook
 ```
 3. Present with [RISE](https://rise.readthedocs.io/en/stable/index.html).
-
-### Download the pdf for a static view
-RL_lecture.pdf (todo)
