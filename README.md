@@ -4,8 +4,12 @@ A short computational neuroscience lecture on:
 
 <center> <img src="fig/simbad.png"  width="200" height="200" center></center>
 
+## View the static presentation (no interactive features)
 
-## View the static presentation
+## Download as pdf (v1.0.0):
+[RL_lecture.pdf](https://github.com/spisakt/rl_lecture/releases/download/1.0.0/RL_lecture.pdf)
+
+## View on-line in nbviewer:
 1. Click on this button: [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/spisakt/rl_lecture/blob/main/RL_lecture.ipynb)
 2. Click ![image](https://user-images.githubusercontent.com/21124251/221004883-bfa82156-18db-438a-859d-f7aac3f1d61d.png) to start the presentation.
 
